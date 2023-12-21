@@ -3,6 +3,7 @@
   "short_name": "日本語勉強",
   "start_url": ".",
   "display": "standalone",
+  "theme_color": "AliceBlue",
   "description": "My Japanese study app.",
   "icons": [
     {
